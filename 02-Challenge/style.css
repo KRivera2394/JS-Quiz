@@ -1,0 +1,14 @@
+*{
+    font-size: 2rem;
+}
+.choice , .choice2, .choice3{
+    margin-right: 2%;
+}
+
+
+
+
+.hidden {
+    display: none;
+}
+
